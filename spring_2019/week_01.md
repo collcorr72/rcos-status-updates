@@ -3,7 +3,7 @@
 > In this section, you can write about what you accomplished in the previous week.
 
 > This past week, I was able to implement the the dialog box for creating a new user in the front end. I \
-> learned how to send requests in JavaScript to the backend API.
+> learned how to send requests in JavaScript to the backend API. sdds
 
 ## This Week's Plan
 
